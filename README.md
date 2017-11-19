@@ -1,4 +1,3 @@
-###Screenshots
 ![alt tag](https://i.imgur.com/weVr0DQ.png)
 
 ###Original Project by:
