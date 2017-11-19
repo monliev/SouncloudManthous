@@ -1,5 +1,5 @@
 ###Screenshots
-![alt tag](http://i.imgur.com/VhQlZ.jpg)
+![alt tag](https://i.imgur.com/weVr0DQ.png)
 
 ###Original Project by:
 * [NielsMasdorp](https://github.com/NielsMasdorp)
