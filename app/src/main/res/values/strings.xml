@@ -1,0 +1,115 @@
+<resources>
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_ad_unit_id_" translatable="false">ca-app-pub-3940256099942544/6300978111</string> Test Ad Unit
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-2953879827169015/3672580618</string> manthous
+
+    <!-- Data Utama -->
+    <string name="app_name">Langgam Campursari Manthous</string>
+    <string name="menu_settings">Settings</string>
+    <string name="action_sleep_timer">Sleep timer</string>
+    <string name="sleep_timer_title">Sleep timer</string>
+    <string name="update_title">What\'s new</string>
+    <string name="update_positive">I understand</string>
+    <string name="action_email_dev">Email developer</string>
+    <string name="action_about">About</string>
+    <string name="email_subject">Feedback</string>
+    <string name="email_intent_title">Anything to add?</string>
+    <string name="dev_email_address" translatable="false">infotechnodev@gmail.com</string>
+    <string name="email_intent_type" translatable="false">mailto</string>
+    <string name="about_title">About App</string>
+    <string name="about_positive" translatable="false">OK</string>
+    <string name="about_message" translatable="false"><![CDATA[
+        <b>Current version: 1.3.1, Edited by:</b><br/><br/>
+        <b>Infotechno Developer</b><br/>
+        <a href=\'https://play.google.com/store/apps/developer?id=Infotech%20Developer&hl=in\'>Google Play</a>&nbsp;&nbsp;
+        <a href=\'https://infotechnodeveloper.blogspot.com\'>Blogspot</a>&nbsp;&nbsp;<br/><br/>
+        <b>Special Thanks & Made by:</b><br/><br/>
+        <b>Niels Masdorp</b><br/>
+        <a href=\'https://play.google.com/store/search?q=pub:Niels%20Masdorp\'>Google Play</a>&nbsp;&nbsp;
+        <a href=\'https://plus.google.com/118171808911702111152\'>Google+</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/NielsMasdorp\'>GitHub</a>&nbsp;&nbsp;
+        <a href=\'https://www.linkedin.com/profile/view?id=257462649\'>LinkedIn</a>&nbsp;&nbsp;<br/><br/>
+        <b>Libraries:</b><br/>
+        <a href=\'https://github.com/afollestad/material-dialogs\'>Material Dialogs</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/JakeWharton/butterknife\'>Butterknife</a>&nbsp;&nbsp;
+        <a href=\'http://google.github.io/dagger/\'>Dagger2</a>&nbsp;&nbsp;
+        <a href=\'https://github.com/bumptech/glide\'>Glide</a>&nbsp;&nbsp;<br/><br/>
+        <b>Thanks to:</b><br/>
+        <a href=\'https://id.wikipedia.org/wiki/Manthous\'>Manthous</a>&nbsp;&nbsp;
+        <a href=\'https://soundcloud.com\'>SoundCloud</a>&nbsp;&nbsp;
+    ]]></string>
+
+    <string name="judul_1" translatable="false">Andeng-Andeng</string>
+    <string name="deskripsi_1" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_2" translatable="false">Anting-Anting</string>
+    <string name="deskripsi_2" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_3" translatable="false">Balen</string>
+    <string name="deskripsi_3" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_4" translatable="false">Becak Solo</string>
+    <string name="deskripsi_4" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_5" translatable="false">Bengawan Sore</string>
+    <string name="deskripsi_5" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_6" translatable="false">Eling-Eling Emut</string>
+    <string name="deskripsi_6" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_7" translatable="false">Esemmu</string>
+    <string name="deskripsi_7" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_8" translatable="false">Geblek Kulon Progo</string>
+    <string name="deskripsi_8" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_9" translatable="false">Getun</string>
+    <string name="deskripsi_9" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_10" translatable="false">Gunung Kidul Handayani</string>
+    <string name="deskripsi_10" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_11" translatable="false">Jeruk Garut</string>
+    <string name="deskripsi_11" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_12" translatable="false">Kangen</string>
+    <string name="deskripsi_12" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_13" translatable="false">Kembang Kecubung</string>
+    <string name="deskripsi_13" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_14" translatable="false">Rondo Kempling</string>
+    <string name="deskripsi_14" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_15" translatable="false">Langgam Lego</string>
+    <string name="deskripsi_15" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_16" translatable="false">Lorobronto</string>
+    <string name="deskripsi_16" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_17" translatable="false">Mbah Dukun</string>
+    <string name="deskripsi_17" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_18" translatable="false">Methuk</string>
+    <string name="deskripsi_18" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_19" translatable="false">Ngimpi</string>
+    <string name="deskripsi_19" translatable="false">Langgam Campursari Manthous Vol.1</string>
+    <string name="judul_20" translatable="false">Nyidam Sari</string>
+    <string name="deskripsi_20" translatable="false">Langgam Campursari Manthous Vol.1</string>
+
+    <string name="stream_error_toast">Couldn\'t open stream, Check your internet connection. If this continues to fail please contact me.</string>
+    <string name="no_wifi_toast">Not connected to WiFi, be aware that this uses a LOT of data!</string>
+    <string name="start_stream_error_toast">Start a stream first.</string>
+    <string name="background_content_description">Background</string>
+    <string name="previous_button_content_desc">Previous button</string>
+    <string name="play_button_content_desc">Play button</string>
+    <string name="next_button_content_desc">Next button</string>
+    <string name="stream_notification_image_content_desc">Notification stream image</string>
+    <string name="notification_cancel_button_content_desc">Cancel notification button</string>
+    <string name="all_sounds_button">show all</string>
+    <string name="show_sounds_dialog_button">BACK</string>
+    <string name="action_wifi_only">Stream on WiFi only</string>
+    <string name="no_wifi_setting_toast">Not connected to Wifi</string>
+    <string name="toast_no_wifi_but_playing">Stream stopped since you are not on WiFi</string>
+    <string name="sleep_timer_button_content">Pick a sleep timer</string>
+
+    <string-array name="sleep_timer" translatable="false">
+        <item>Off</item>
+        <item>15 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+        <item>40 minutes</item>
+        <item>50 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+    </string-array>
+
+    <string-array name="api_keys" translatable="false">
+        <item>0d5f6e83dc251d8bed94c04c44fbbbc4</item>
+    </string-array>
+
+</resources>

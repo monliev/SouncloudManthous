@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "292149017513",
+    "firebase_url": "https://souncloud-manthous-70923.firebaseio.com",
+    "project_id": "souncloud-manthous-70923",
+    "storage_bucket": "souncloud-manthous-70923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292149017513:android:7dfff51be579bf5c",
+        "android_client_info": {
+          "package_name": "com.infotechnodev.scmanthous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292149017513-ri1r8efjj2pb1c2dsqf63i03lq4eo0g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infotechnodev.scmanthous",
+            "certificate_hash": "928d0dec5683858c9bdb41178d13984758631317"
+          }
+        },
+        {
+          "client_id": "292149017513-159tkhsstt92pblhiuqh4brdg2r9dn7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYaSSM_sogTpCsHBIVEGHTJA0s6Wzypb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292149017513-159tkhsstt92pblhiuqh4brdg2r9dn7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
