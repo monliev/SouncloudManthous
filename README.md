@@ -1,31 +1,8 @@
-![alt tag](http://i.imgur.com/Uy9w5WN.jpg)
-
-###Fall asleep with Sleeply
-
-<a href="https://play.google.com/store/apps/details?id=infotechnodev.sleeply">
-<img align="middle" alt="Get it on Google Play" src="http://steverichey.github.io/google-play-badge-svg/img/en_get.svg" />
-</a>
-
-Having trouble falling asleep? I did, and listening to calming music helped me.
-Sleeply as of now, contains 8 sounds:
-
-- Sounds of the forest
-- Ocean sounds
-- Rain
-- Shamanic meditation
-- Delta waves
-- Lucid dreaming
-- Autumn wind
-- Enter the void
-
-The user interface is beautiful and it supports playing in the background as well as a sleep timer configurable between 15 minutes and 3 hours.
-
-Don't wait any longer and start falling asleep more peacefully!
-If you know any sounds that help you fall asleep, contact me from within the app and i'll add them. Go to the [Google+](https://plus.google.com/communities/103127046711774033512) community to test Sleeply.
-
 ###Screenshots
+![alt tag](http://i.imgur.com/VhQlZ.jpg)
 
-![alt tag](http://i.imgur.com/aVeMHcr.jpg)
+###Original Project by:
+* [NielsMasdorp](https://github.com/NielsMasdorp)
 
 ###Used libraries
 * [Butterknife](https://github.com/JakeWharton/butterknife)
